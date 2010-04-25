@@ -4,3 +4,4 @@ projects.zsh
 custom/*.zsh
 !custom/example.zsh
 !custom/path.zsh
+!custom/nvm.zsh
