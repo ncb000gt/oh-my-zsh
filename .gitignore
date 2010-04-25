@@ -7,4 +7,3 @@ custom/*.zsh
 !custom/rvm.zsh
 !custom/example.zsh
 cache
-!custom/nvm.zsh
