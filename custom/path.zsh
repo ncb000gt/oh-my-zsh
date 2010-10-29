@@ -1,1 +1,1 @@
-export PATH=$PATH:~/bin/
+export PATH=~/Code/depot_tools:$PATH:~/bin/
