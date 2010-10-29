@@ -1,1 +1,1 @@
-export PATH=~/Code/depot_tools:$PATH:~/bin/
+export PATH=~/Code/depot_tools:$PATH:~/bin/:/opt/eclipse/
