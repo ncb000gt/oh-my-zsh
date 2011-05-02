@@ -4,6 +4,7 @@ projects.zsh
 custom/*.zsh
 !custom/example
 !custom/path.zsh
+!custom/rvm.zsh
 !custom/example.zsh
 cache
 !custom/nvm.zsh
