@@ -6,3 +6,4 @@ custom/*.zsh
 !custom/example.zsh
 !custom/path.zsh
 cache
+*.swp
