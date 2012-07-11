@@ -6,5 +6,6 @@ custom/*.zsh
 !custom/example.zsh
 !custom/path.zsh
 !custom/aliases.zsh
+!custom/term.zsh
 cache
 *.swp
