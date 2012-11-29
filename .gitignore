@@ -4,8 +4,10 @@ projects.zsh
 custom/*.zsh
 !custom/rvm.zsh
 !custom/example.zsh
+<<<<<<< HEAD
 !custom/path.zsh
 !custom/aliases.zsh
 !custom/term.zsh
+!custom/example.zshcache
 cache
 *.swp
