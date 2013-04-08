@@ -34,6 +34,8 @@ ZSH_THEME="ncb000gt"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(git rvm npm github ruby brew node lein mathfunc)
 
+umask 022
+
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
