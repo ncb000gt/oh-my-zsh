@@ -1,10 +1,10 @@
 locals.zsh
 log/.zsh_history
 projects.zsh
-custom/*.zsh
+custom/
 !custom/rvm.zsh
+!custom/plugins/example
 !custom/example.zsh
-<<<<<<< HEAD
 !custom/path.zsh
 !custom/aliases.zsh
 !custom/term.zsh
